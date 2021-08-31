@@ -1,0 +1,25 @@
+body
+{
+    margin:  0;
+    padding: 0;
+    background-image: url(https://bsmedia.business-standard.com/media-handler.php?mediaPath=http://bsmedia.business-standard.com/_media/bs/img/article/2017-07/08/full/1499506822-4948.jpg&width=1200);
+    height: 100vh;
+    width: 100%;
+    background-size:cover;
+}
+#coloroverlay
+{
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color: white;
+}
+#textbg
+{
+    line-height: 100vh;
+    font-size: 80px;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana;
+}
